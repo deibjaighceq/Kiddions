@@ -1,72 +1,79 @@
-# silent-protocol-bot
+# 🚀 Kiddion's Modest Menu - GTA 5 Online External Mod Menu  
 
-Automation bot for interacting with the Silent Protocol testnet.
+![image](https://github.com/user-attachments/assets/062cbdae-2ab2-4ee8-9fbd-639efb5e437f)
 
-## Getting Started
+**The most popular external mod menu for GTA Online**  
+*Safe, lightweight, and feature-rich*  
 
-1. **Visit the Silent Protocol Testnet Ceremony**
-   - Go to [https://ceremony.silentprotocol.org/](https://ceremony.silentprotocol.org/).
+---
 
-2. **Retrieve Your Bearer Token**
+## 🔍 **Description**  
+**Kiddion's Modest Menu** is an external mod menu for GTA 5 Online that allows players to enhance their gameplay without interfering with others. It's **free**, undetected, and frequently updated.  
 
-   **Option 1: Using Network Tab**
-   - Open your browser's developer tools (usually by pressing `F12` or `Ctrl+Shift+I`).
-   - Navigate to the "Network" tab.
-   - Reload the page.
-   - Look for `fetch` or `xhr` requests related to the ceremony.
-   - Click on one of these requests and go to the "Headers" section.
-   - Find the `Authorization` header and copy the token (the part after `Bearer`). Do **not** include the `Bearer` text.
+### ✨ **Key Features**:  
+- ✅ **Safe**: Low ban risk (external injection)  
+- 🛠 **Powerful**: Money drops, teleport, vehicle spawn, NPC control, and more  
+- 💻 **Lightweight**: No DLL injection, runs as a standalone app  
+- 🔄 **Updated**: Regular patches for new GTA Online versions  
 
-   **Option 2: Using Console**
-   - Open your browser's developer tools and go to the "Console" tab.
-   - Run the following command to retrieve the token from local storage:
+---
 
-     ```javascript
-     console.log(localStorage.getItem('silent_jwt'));
-     ```
+## ⚙️ **Installation**  
+1. **Download** the latest version from [Official Website](#) *(link will be added soon)*  
+2. **Extract** the ZIP file to a secure folder  
+3. **Run** `Kiddion's Modest Menu.exe` as Administrator  
+4. **Launch GTA 5 Online** and press `F5` to open the menu  
 
-   - Copy the displayed token.
+> ⚠️ **Warning**: Use at your own risk. Avoid obvious cheating in public sessions!  
 
-3. **Save Your Tokens**
-   - Create a file named `tokens.txt` in the project root directory.
-   - Add each token on a new line.
+---
 
-## Installation
+## 📋 **Menu Controls**  
+| Key | Action |  
+|-----|--------|  
+| `F5` | Open/Close Menu |  
+| `↑↓←→` | Navigate Options |  
+| `Enter` | Select |  
+| `Backspace` | Go Back |  
 
-1. Clone this repository:
+---
 
-   ```bash
-   git clone https://github.com/dante4rt/silent-protocol-bot.git
-   cd silent-protocol-bot
-   ```
+## 🌟 **Features Overview**  
+### 💰 **Money & Recovery**  
+- Casino Rig (Instant Jackpot)  
+- Money Drop (Safe amounts)  
+- RP Booster  
 
-2. Install dependencies:
+### 🚗 **Vehicle & Spawn**  
+- Spawn Any Vehicle  
+- Godmode/Repair  
+- Custom License Plates  
 
-   ```bash
-   npm install
-   ```
+### 🎮 **Player Options**  
+- Infinite Ammo  
+- No Wanted Level  
+- Super Jump & Speed  
 
-## Running the Bot
+---
 
-Start the bot with the following command:
+## ❓ **FAQ**  
+**Q: Is Kiddion's detectable?**  
+A: No bans reported if used moderately. Avoid money drops >$50M/day.  
 
-```bash
-npm start
-```
+**Q: Does it work on Epic/Steam?**  
+A: Yes, supports all versions.  
 
-## Notes
+**Q: How to update?**  
+A: Download the new version and replace old files.  
 
-- The bot will use the tokens from `tokens.txt` to interact with the Silent Protocol backend.
-- Ensure your tokens are valid to avoid errors.
+---
 
-## Donations
+## 📥 **Download**  
+🔗  
 
-If you would like to support the development of this project, you can make a donation using the following addresses:
+---
 
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x23686f799e7C1E8158208882bAD2BD90A5C59256`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
+## ⚠️ **Disclaimer**  
+This software is for **educational purposes only**. We do not endorse cheating in multiplayer. Use responsibly!  
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+![GitHub last commit](https://img.shields.io/github/last-commit/username/repo?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)  
